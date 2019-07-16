@@ -1,4 +1,4 @@
-# openBugList - java example
+# example - java
 
 ### Tag
 ```xml

@@ -1,4 +1,4 @@
-# openBugList - java
+# Java Home Page
 
 * apache
     * org.apache.commons

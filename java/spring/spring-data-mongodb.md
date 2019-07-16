@@ -1,4 +1,4 @@
-# openBugList - spring-data-mongodb
+# spring-data-mongodb
 
 ### Tag
 ```xml
