@@ -1,4 +1,4 @@
-# openBugList - java example
+# openBugList - spring-data-mongodb
 
 ### Tag
 ```xml
@@ -8,7 +8,7 @@
 </dependency>
 ```
 
-### 1.5.12.RELEASE
+### Version - 1.5.12.RELEASE
 ##### Problem 1
 When I used mongotemplate.find() to query data, it was very slow
 ```java
@@ -45,3 +45,15 @@ List<DBObject> dbObjects = mongoTemplate.find(query, DBObject.class,collectionNa
     DBCollection collection = mongoTemplate.getCollection(collectionName);
     DBCursor dbObjects = collection.find(query);
     ``` 
+    
+    
+### Version - 1.xx.xx.x
+##### Problem 1
+xxxx
+```java
+```
+* Solving Methods
+    * Solution 1
+    ``` xml
+    ``` 
+##### Problem 2
