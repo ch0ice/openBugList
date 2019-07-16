@@ -17,7 +17,7 @@ OpenBugList 是一个收集开源社区软件 bug 的项目，您可以很容易
     * [java 格式](https://guides.github.com/introduction/flow/)
     * [javaScript 格式](https://guides.github.com/introduction/flow/)
 ### What `结果`
-<span id="jump"/>
+<span id="jump"></span>
 * [java](./java/HOME.md)
 * [javaScript](./javaScript/HOME.md)
 
