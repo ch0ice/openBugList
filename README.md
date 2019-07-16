@@ -19,9 +19,9 @@ OpenBugList 是一个收集开源社区软件 bug 的项目，您可以很容易
 
 
 ### What `bug列表入口`
-<span id="what"></span>
 * [java](./java/HOME.md)
 * [javaScript](./javaScript/HOME.md)
+<span id="what"/>
 
 
 ### PS
