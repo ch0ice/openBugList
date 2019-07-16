@@ -16,12 +16,12 @@ OpenBugList 是一个收集开源社区软件 bug 的项目，您可以很容易
 * 如何贡献bug信息（目前采用[Github Flow](https://guides.github.com/introduction/flow/)模式）
     * [java 格式](https://guides.github.com/introduction/flow/)
     * [javaScript 格式](https://guides.github.com/introduction/flow/)
-### What `结果`
+### What `bug列表入口`
 <span id="jump"></span>
 * [java](./java/HOME.md)
 * [javaScript](./javaScript/HOME.md)
 
 
 ### PS
-* 目前采用[Github Flow](https://guides.github.com/introduction/flow/)模式：Fork->PushRequest->Merge(当然也可以直接提交issues)，目前本项目全部使用master分支，不需要创建新分支，fork以后直接提交PushRequest即可。
+* 目前采用[Github Flow](https://guides.github.com/introduction/flow/)模式：Fork->PushRequest->Merge(当然也可以直接提交issues)，目前本项目全部使用master分支，不需要创建新分支，fork以后直接commit->PushRequest即可。
 * 如果你感觉本项目对你有所帮助，请帮忙点击一下star。
