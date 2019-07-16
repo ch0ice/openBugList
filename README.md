@@ -12,16 +12,18 @@ OpenBugList 是一个收集开源社区软件 bug 的项目，您可以很容易
 ### How `如何查找bug和贡献bug信息`
 * 如何查找bug
     * 直接在本仓库页面GitHub搜索框中搜索bug对应开源软件的关键字的关键字，如 spring 或 spring-data-mongodb:1.10.11.RELEASE
-    * 在[下方入口](#jump)️根据语言大类如java，点击进去选择开源软件的所属机构（groupId）
+    * 在[下方入口](#what)️根据语言大类如 java，点击进去选择开源软件的所属机构
 * 如何贡献bug信息（目前采用[Github Flow](https://guides.github.com/introduction/flow/)模式）
-    * [java 格式](https://guides.github.com/introduction/flow/)
-    * [javaScript 格式](https://guides.github.com/introduction/flow/)
+    * [java 格式](./java/EXAMPLE.md)
+    * [javaScript 格式](./javaScript/EXAMPLE.md)
+
+
 ### What `bug列表入口`
-<span id="jump"></span>
+<span id="what"></span>
 * [java](./java/HOME.md)
 * [javaScript](./javaScript/HOME.md)
 
 
 ### PS
-* 目前采用[Github Flow](https://guides.github.com/introduction/flow/)模式：Fork->PushRequest->Merge(当然也可以直接提交issues)，目前本项目全部使用master分支，不需要创建新分支，fork以后直接commit->PushRequest即可。
+* 目前采用[Github Flow](https://guides.github.com/introduction/flow/)模式：目前本项目全部使用master分支，不需要创建新分支，fork以后增加您的修改，直接commit然后提交pushRequest即可。
 * 如果你感觉本项目对你有所帮助，请帮忙点击一下star。
