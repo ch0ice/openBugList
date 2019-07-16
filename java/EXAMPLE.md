@@ -14,7 +14,7 @@
 //When I query the data in the following way, it is extremely slow
 Query query = new Query();
 query.addCriteria(
-    Criteria.where("serviceId")
+    Criteria.where("serviceId").is("19")
 );
 List<DBObject> dbObjects = mongoTemplate.find(query, DBObject.class,collectionName);
 ```
