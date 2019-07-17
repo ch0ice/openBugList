@@ -45,6 +45,8 @@ List<DBObject> dbObjects = mongoTemplate.find(query, DBObject.class,collectionNa
     DBCollection collection = mongoTemplate.getCollection(collectionName);
     DBCursor dbObjects = collection.find(query);
     ``` 
+* GitHub Issues(If you have)
+    * [test issues address](./spring-data-mongodb.md)
     
     
 ### Version - 1.xx.xx.x
