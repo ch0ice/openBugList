@@ -31,4 +31,5 @@ and they have their own git workflow, which takes a long time.)
 
 
 ### PS
+* Documents other than the current page do not have Chinese versions.
 * If you find this project helpful, please click on star.
