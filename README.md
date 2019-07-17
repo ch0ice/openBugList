@@ -11,7 +11,7 @@ OpenBugList 是一个收集开源社区软件 bug 的项目，您可以很容易
 
 ### How `如何查找bug和贡献bug信息`
 * 如何贡献bug信息
-    * 采用[Github Flow](https://guides.github.com/introduction/flow/)模式，目前使用所有主分支。没有必要创建新的分支。fork之后，添加更改，然后提交pushRequest，您可以单击下面的选项来查看相应的语言贡献格式。
+    * 采用[Github Flow](https://guides.github.com/introduction/flow/)模式，目前使用主分支，没有必要创建新的分支。fork之后，添加更改，然后提交pushRequest，您可以单击下面的选项来查看相应的语言贡献格式。
     * [java 示例](./java/EXAMPLE.md)
     * [javaScript 示例](./javaScript/EXAMPLE.md)
 * 如何查找bug
