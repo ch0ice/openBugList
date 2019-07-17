@@ -9,7 +9,7 @@ OpenBugList 是一个收集开源社区软件 bug 的项目，您可以很容易
 希望大家在遇到开源软件问题的时候，可以直接在 OpenBugList 中找到解决方法，以节省你的时间（当然你可以直接去对应仓库提交issues或pushRequest，但是很多仓库关闭了issues入口，而且它们有自己git工作流，这需要浪费你很长的时间）。
 
 
-### How `如何查找bug和贡献bug信息`
+### How `如何贡献bug信息和查找bug`
 * 如何贡献bug信息
     * 采用[Github Flow](https://guides.github.com/introduction/flow/)模式，目前使用主分支，没有必要创建新的分支。fork之后，添加更改，然后提交pushRequest，您可以单击下面的选项来查看相应的语言贡献格式。
     * [java 示例](./java/EXAMPLE.md)
